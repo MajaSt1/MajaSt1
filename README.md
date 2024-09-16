@@ -3,6 +3,8 @@
 <h1 align="center"><img src="https://media.tenor.com/0m1GsuD-53wAAAAi/mlbb-jjk-jjk-mlbb.gif" alt="hello!" width="7%" />, I'm Maja!</h1>
 <h3 align="center">A Passionate and Dedicated Software Engineer.</h3>
 
+<div align="center"> I am seeking remote opportunities to gain experience in projects, ideally involving Scala or Golang. I am eager to further develop my skills and contribute to innovative and challenging projects. </div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/maja-stefanowicz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maja's LinkedIn" width="7%" /></a>
